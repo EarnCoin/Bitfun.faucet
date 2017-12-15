@@ -1,7 +1,13 @@
-# Bitfun.faucets
+# Bitcoin Game Bitfun
 
+<ul>
+  <li>Wait(min): 5</li>
+  <li>Min(satoshi): 8</li>
+  <li>Max(satoshi): 200</li>
+  <li>Bonus(%): 5</li>
+  <li>Withdraw: coinpot</li>
+</ul>
 
-Bitcoin Game Bitfun
 
 
 ### Bitcoin game bitfun is a bitcoin faucet and a bitcoin game website that gives free bitcoin every 3 minutes. Members can earn more rewards by playing some of their games. Chess game, RPG game and action games are among the games members can play to earn more bitcoin.
