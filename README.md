@@ -1,6 +1,7 @@
 # Bitcoin Game Bitfun
 
 <ul>
+ <li>currency:Bitcoin</li>
   <li>Wait(min): 5</li>
   <li>Min(satoshi): 8</li>
   <li>Max(satoshi): 200</li>
