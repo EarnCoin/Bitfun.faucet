@@ -4,8 +4,8 @@
   <li>Wait(min): 5</li>
   <li>Min(satoshi): 8</li>
   <li>Max(satoshi): 200</li>
-  <li>Bonus(%): 5</li>
-  <li>Withdraw: coinpot</li>
+  <li>Bonus(%): 50</li>
+  <li>Withdraw: Coinpot</li>
 </ul>
 
 
