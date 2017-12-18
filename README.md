@@ -15,6 +15,5 @@
 
 ### bitfun是整合型轉比特幣水龍頭，會員可以下棋，玩RPG，動作遊戲獲得比特幣。
 
-*Reach 10,000 satoshi 可提領(withdraw)*
 
 
