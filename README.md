@@ -2,8 +2,8 @@
 
 <ul>
  <li>currency:Bitcoin</li>
-  <li>Wait(min): 5</li>
-  <li>Min(satoshi): 8</li>
+  <li>Wait(min): 3</li>
+  <li>Min(satoshi): 2</li>
   <li>Max(satoshi): 200</li>
   <li>Bonus(%): 50</li>
   <li>Withdraw: Coinpot</li>
